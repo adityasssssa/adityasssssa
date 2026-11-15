@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**adityasssssa/adityasssssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aditya Sharma
 
-Here are some ideas to get you started:
+Data Science Student at Boston University  
+Originally from Concord, North Carolina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in artificial intelligence, machine learning, software development, and research.
+
+### Connect
+
+- [Personal Website](https://adityasharma.app)
+- [LinkedIn](https://www.linkedin.com/in/aditya-sharma-262046218/)
+- [Medium](https://medium.com/@adityasharmads)
+- [Ecomarine Guardians](https://ecomarineguardians.wixsite.com/site)
